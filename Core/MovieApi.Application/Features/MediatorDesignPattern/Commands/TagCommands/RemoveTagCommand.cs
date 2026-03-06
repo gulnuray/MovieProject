@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MovieApi.Application.Features.MediatorDesignPattern.Queries.TagQueries
+namespace MovieApi.Application.Features.MediatorDesignPattern.Commands.TagCommands
 {
-	public class GetTagByIdQueryResult:IRequest<GetTagByIdQueryResult>
+	public class RemoveTagCommand:IRequest
 	{
 		public int TagId { get; set; }
 
-		public GetTagByIdQueryResult(int tagId)
+		public RemoveTagCommand(int tagId)
 		{
 			TagId = tagId;
 		}
