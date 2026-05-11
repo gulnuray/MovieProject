@@ -1,6 +1,14 @@
 var builder = WebApplication.CreateBuilder(args);
+builder.Logging.ClearProviders();
+builder.Logging.AddConsole();
+builder.Logging.AddDebug();
 
 // Add services to the container.
+var movieApiBaseUrl = builder.Configuration["MovieApi:BaseUrl"] ?? "http://localhost:5246/";
+builder.Services.AddHttpClient("MovieApi", client =>
+{
+	client.BaseAddress = new Uri(movieApiBaseUrl);
+});
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -13,7 +21,10 @@ if (!app.Environment.IsDevelopment())
 	app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+if (!app.Environment.IsDevelopment())
+{
+	app.UseHttpsRedirection();
+}
 app.UseRouting();
 
 app.UseAuthorization();

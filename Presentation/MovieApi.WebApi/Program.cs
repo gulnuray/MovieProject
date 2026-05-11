@@ -10,6 +10,9 @@ using MovieApi.Application.Features.MediatorDesignPattern.Handlers.TagHandlers;
 
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Logging.ClearProviders();
+builder.Logging.AddConsole();
+builder.Logging.AddDebug();
 
 // Add services to the container.
 
@@ -52,9 +55,13 @@ if (app.Environment.IsDevelopment())
 	});
 }
 
-app.UseHttpsRedirection();
+if (!app.Environment.IsDevelopment())
+{
+	app.UseHttpsRedirection();
+}
 app.UseAuthorization();
 
+app.MapGet("/", () => Results.Redirect("/swagger"));
 app.MapControllers();
 
 app.Run();
