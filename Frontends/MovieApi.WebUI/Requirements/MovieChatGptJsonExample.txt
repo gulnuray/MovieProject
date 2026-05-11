@@ -1,0 +1,102 @@
+﻿[
+  {
+    "title": "Inception",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "rating": 8.8,
+    "description": "Dom Cobb, insanların rüyalarına girerek bilinçaltındaki sırları çalan yetenekli bir hırsızdır. Son görevinde bir fikri çalmak yerine bir fikri yerleştirmesi gerekir. Gerçeklik ile rüya arasındaki çizgi giderek kaybolurken ekip büyük bir zihinsel mücadele verir.",
+    "duration": 148,
+    "releaseDate": "2010-07-16T00:00:00.000Z",
+    "createdYear": "2010",
+    "status": true
+  },
+  {
+    "title": "The Dark Knight",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "rating": 9.0,
+    "description": "Batman, Gotham şehrini suçtan temizlemeye çalışırken Joker adındaki kaotik ve acımasız bir suçlu ortaya çıkar. Joker’in planları şehirde korku yaratırken Batman hem fiziksel hem de psikolojik olarak en büyük sınavlarından biriyle karşılaşır.",
+    "duration": 152,
+    "releaseDate": "2008-07-18T00:00:00.000Z",
+    "createdYear": "2008",
+    "status": true
+  },
+  {
+    "title": "Interstellar",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "rating": 8.7,
+    "description": "Dünya yaşanmaz hale gelirken eski bir pilot olan Cooper, insanlığın geleceğini kurtarmak için uzaya gönderilir. Kara delikler, zaman kavramı ve bilinmeyen galaksiler arasında geçen yolculuk, hem bilimsel hem de duygusal bir mücadeleye dönüşür.",
+    "duration": 169,
+    "releaseDate": "2014-11-07T00:00:00.000Z",
+    "createdYear": "2014",
+    "status": true
+  },
+  {
+    "title": "Fight Club",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+    "rating": 8.8,
+    "description": "Hayatından sıkılmış bir beyaz yakalı çalışan, karizmatik Tyler Durden ile tanıştıktan sonra gizli bir dövüş kulübü kurar. Başlangıçta özgürlük hissi veren bu oluşum zamanla kontrolden çıkar ve karakterin gerçeklikle bağı sorgulanır.",
+    "duration": 139,
+    "releaseDate": "1999-10-15T00:00:00.000Z",
+    "createdYear": "1999",
+    "status": true
+  },
+  {
+    "title": "The Matrix",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "rating": 8.7,
+    "description": "Neo isimli bir yazılımcı, yaşadığı dünyanın aslında makineler tarafından oluşturulan bir simülasyon olduğunu öğrenir. Gerçek dünyaya adım atan Neo, insanlığı özgürlüğe ulaştıracak kişi olup olmadığını keşfetmeye çalışır.",
+    "duration": 136,
+    "releaseDate": "1999-03-31T00:00:00.000Z",
+    "createdYear": "1999",
+    "status": true
+  },
+  {
+    "title": "Forrest Gump",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "rating": 8.8,
+    "description": "Düşük IQ seviyesine sahip olmasına rağmen saf kalbi ve azmiyle hayatını yaşayan Forrest Gump, Amerika tarihinin önemli olaylarına istemeden tanıklık eder. Spor, savaş ve aşk dolu yaşam hikâyesi milyonlara ilham verir.",
+    "duration": 142,
+    "releaseDate": "1994-07-06T00:00:00.000Z",
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "rating": 9.3,
+    "description": "Haksız yere hapse giren Andy Dufresne, Shawshank Hapishanesi’nde yıllar boyunca umut duygusunu kaybetmeden yaşam mücadelesi verir. Kurduğu dostluklar ve zekice planları sayesinde özgürlüğe giden yolu aramaya devam eder.",
+    "duration": 142,
+    "releaseDate": "1994-09-23T00:00:00.000Z",
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "Gladiator",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "rating": 8.5,
+    "description": "Roma Generali Maximus, ihanete uğrayarak ailesini kaybeder ve köle olarak arenalara sürülür. Gücünü ve kararlılığını kullanarak gladyatör olurken aynı zamanda intikamını almak ve adaleti sağlamak için savaşır.",
+    "duration": 155,
+    "releaseDate": "2000-05-05T00:00:00.000Z",
+    "createdYear": "2000",
+    "status": true
+  },
+  {
+    "title": "Titanic",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "rating": 7.9,
+    "description": "Farklı sosyal sınıflardan gelen Jack ve Rose, Titanic gemisinde unutulmaz bir aşk yaşar. Ancak geminin buzdağına çarpmasıyla birlikte romantik hikâye hayatta kalma mücadelesine dönüşür ve trajik olaylar yaşanır.",
+    "duration": 195,
+    "releaseDate": "1997-12-19T00:00:00.000Z",
+    "createdYear": "1997",
+    "status": true
+  },
+  {
+    "title": "Avatar",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "rating": 7.8,
+    "description": "Jake Sully, Pandora gezegeninde görev almak için Avatar programına katılır. Burada Na’vi halkıyla yakınlaştıkça kendi insanlığı ile görevleri arasında seçim yapmak zorunda kalır. Film, görsel dünyasıyla dikkat çeker.",
+    "duration": 162,
+    "releaseDate": "2009-12-18T00:00:00.000Z",
+    "createdYear": "2009",
+    "status": true
+  }
+]

@@ -1,0 +1,102 @@
+﻿[
+  {
+    "title": "Breaking Bad",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "rating": 9.5,
+    "description": "Kimya öğretmeni Walter White, ölümcül bir hastalığa yakalandığını öğrendikten sonra ailesine para bırakabilmek için eski öğrencisi Jesse ile uyuşturucu üretmeye başlar. Zamanla sıradan bir adamdan tehlikeli bir suç liderine dönüşür.",
+    "duration": 49,
+    "releaseDate": "2008-01-20T00:00:00.000Z",
+    "createdYear": "2008",
+    "status": true
+  },
+  {
+    "title": "Game of Thrones",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "rating": 9.2,
+    "description": "Westeros kıtasında geçen hikâyede farklı hanedanlar Demir Taht için mücadele ederken kuzeyden gelen büyük tehdit yaklaşmaktadır. İhanet, savaş, entrika ve fantastik unsurlar diziyi dünya çapında popüler hale getirmiştir.",
+    "duration": 57,
+    "releaseDate": "2011-04-17T00:00:00.000Z",
+    "createdYear": "2011",
+    "status": true
+  },
+  {
+    "title": "Stranger Things",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+    "rating": 8.7,
+    "description": "1980’lerde küçük bir kasabada kaybolan bir çocuğun ardından gizemli olaylar yaşanmaya başlar. Arkadaş grubu, telekinetik güçlere sahip bir kızla tanışırken hükümet deneyleri ve paralel bir evrenin sırları ortaya çıkar.",
+    "duration": 51,
+    "releaseDate": "2016-07-15T00:00:00.000Z",
+    "createdYear": "2016",
+    "status": true
+  },
+  {
+    "title": "The Walking Dead",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/reKs8y4mPwPkZG99ZpbKRhBPKsX.jpg",
+    "rating": 8.1,
+    "description": "Zombi salgını sonrası dünyanın çökmesiyle hayatta kalan insanlar güvenli bir yaşam kurmaya çalışır. Rick Grimes liderliğindeki grup, hem zombilerle hem de insanlığını kaybetmiş tehlikeli topluluklarla mücadele eder.",
+    "duration": 45,
+    "releaseDate": "2010-10-31T00:00:00.000Z",
+    "createdYear": "2010",
+    "status": true
+  },
+  {
+    "title": "Sherlock",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+    "rating": 9.1,
+    "description": "Modern Londra’da geçen dizide Sherlock Holmes ve doktor John Watson karmaşık suçları çözmektedir. Sherlock’un üstün gözlem yeteneği ve sıra dışı zekâsı sayesinde çözülemeyen davalar kısa sürede aydınlatılır.",
+    "duration": 88,
+    "releaseDate": "2010-07-25T00:00:00.000Z",
+    "createdYear": "2010",
+    "status": true
+  },
+  {
+    "title": "Dark",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/5Lo5Hj1HcX81MtjZQ5Zx1WfNxeT.jpg",
+    "rating": 8.7,
+    "description": "Bir Alman kasabasında çocukların kaybolmasıyla başlayan olaylar, zaman yolculuğu ve aile sırlarıyla karmaşık bir hâl alır. Geçmiş, şimdi ve gelecek arasındaki bağlantılar çözülmeye çalışılırken büyük gerçekler ortaya çıkar.",
+    "duration": 60,
+    "releaseDate": "2017-12-01T00:00:00.000Z",
+    "createdYear": "2017",
+    "status": true
+  },
+  {
+    "title": "The Office",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg",
+    "rating": 8.9,
+    "description": "Bir kağıt şirketinde çalışan ofis personelinin günlük yaşamını mizahi bir dille anlatan dizi, belgesel tarzı çekimleriyle dikkat çeker. Michael Scott’ın sıra dışı yöneticilik anlayışı çalışanları sürekli komik durumlara sokar.",
+    "duration": 22,
+    "releaseDate": "2005-03-24T00:00:00.000Z",
+    "createdYear": "2005",
+    "status": true
+  },
+  {
+    "title": "Peaky Blinders",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+    "rating": 8.8,
+    "description": "Birinci Dünya Savaşı sonrası İngiltere’de geçen dizide Shelby ailesi yasa dışı işler ve politik güç mücadelesi içinde yükselmeye çalışır. Tommy Shelby’nin zekice planları aileyi Birmingham’ın en güçlü çetelerinden biri yapar.",
+    "duration": 60,
+    "releaseDate": "2013-09-12T00:00:00.000Z",
+    "createdYear": "2013",
+    "status": true
+  },
+  {
+    "title": "Friends",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+    "rating": 8.9,
+    "description": "New York’ta yaşayan altı yakın arkadaşın günlük yaşamlarını, ilişkilerini ve kariyer mücadelelerini anlatan sitcom dizisi yıllardır popülerliğini korumaktadır. Mizahi diyalogları ve unutulmaz karakterleriyle öne çıkar.",
+    "duration": 22,
+    "releaseDate": "1994-09-22T00:00:00.000Z",
+    "createdYear": "1994",
+    "status": true
+  },
+  {
+    "title": "Wednesday",
+    "coverImageUrl": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+    "rating": 8.1,
+    "description": "Wednesday Addams, Nevermore Akademisi’nde eğitim görürken doğaüstü güçlerini keşfetmeye çalışır. Okul çevresindeki gizemli cinayetleri araştırırken ailesiyle bağlantılı eski sırlar da gün yüzüne çıkmaya başlar.",
+    "duration": 50,
+    "releaseDate": "2022-11-23T00:00:00.000Z",
+    "createdYear": "2022",
+    "status": true
+  }
+]
