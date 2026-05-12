@@ -7,7 +7,7 @@ namespace MovieApi.WebUI.Controllers
 	public class MovieController : Controller
 	{
 		private readonly IHttpClientFactory _httpClientFactory;
-		
+
 
 		public MovieController(IHttpClientFactory httpClientFactory)
 		{
@@ -42,6 +42,12 @@ namespace MovieApi.WebUI.Controllers
 
 			ViewBag.MovieCount = 0;
 			return View(new List<ResultMovieDto>());
+		}
+
+		public async Task<IActionResult> MovieDetails(int id)
+		{
+			id = 0;
+			return View();
 		}
 	}
 }
